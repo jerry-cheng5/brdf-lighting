@@ -1,6 +1,6 @@
 # BRDF Lighting
 
-This is a simple program to play around with different types of lighting (ambient, diffuse, specular).
+This is a simple OpenGL program to play around with different types of lighting (ambient, diffuse, specular).
 
 ## How to use
 
